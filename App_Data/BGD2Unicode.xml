@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeConvert Name="BGD2Unicode" Descraption="Bugda, 3L, Fangzheng code convert to unicode" Author="Sarwan">
+  <Codes>
+    <code SourceCode="" ReplaceCode="چ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="چ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="چ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="چ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ۋ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ۋ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ې" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ې" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ې" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ې" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ر" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ر" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ت" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ت" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ت" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ت" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ي" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ي" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ي" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ي" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ۇ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ۇ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ڭ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ڭ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ڭ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ڭ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="و" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="و" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="پ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="پ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="پ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="پ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ھ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ھ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ھ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ھ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="س" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="س" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="س" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="س" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="د" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="د" isCompound="false" ></code>
+ 
+    <code SourceCode="" ReplaceCode="ا" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ا" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ە" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ە" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ى" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ى" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ى" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ى" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ق" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ق" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ق" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ق" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ك" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ك" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ك" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ك" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ل" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ل" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ل" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ل" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ز" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ز" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ش" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ش" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ش" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ش" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="غ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="غ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="غ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="غ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ۈ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ۈ" isCompound="false" ></code>
+
+    <code SourceCode="" ReplaceCode="ب" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ب" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ب" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ب" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ن" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ن" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ن" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ن" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="م" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="م" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="م" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="م" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ژ" isCompound="false" ></code>
+ 
+    <code SourceCode="" ReplaceCode="ژ" isCompound="false" ></code>
+ 
+    <code SourceCode="" ReplaceCode="ف" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ف" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ف" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ف" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="گ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="گ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="گ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="گ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="خ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="خ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="خ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="خ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ج" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ج" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ج" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ج" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ۆ" isCompound="false" ></code>
+ 
+    <code SourceCode="" ReplaceCode="ۆ" isCompound="false" ></code>
+ 
+    <code SourceCode="" ReplaceCode="لا" isCompound="true" ></code>
+
+    <code SourceCode="" ReplaceCode="لا" isCompound="true" ></code>
+
+    <code SourceCode="" ReplaceCode="ئ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ئ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ئ" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="ئ" isCompound="false" ></code>
+    <code SourceCode="\u58081" ReplaceCode="0" isCompound="false" ></code>
+    <code SourceCode="\u58082" ReplaceCode="1" isCompound="false" ></code>
+    <code SourceCode="\u58083" ReplaceCode="2" isCompound="false" ></code>
+    <code SourceCode="\u58084" ReplaceCode="3" isCompound="false" ></code>
+    <code SourceCode="\u58085" ReplaceCode="4" isCompound="false" ></code>
+    <code SourceCode="\u58086" ReplaceCode="5" isCompound="false" ></code>
+    <code SourceCode="\u58087" ReplaceCode="6" isCompound="false" ></code>
+    <code SourceCode="\u58088" ReplaceCode="7" isCompound="false" ></code>
+    <code SourceCode="\u58089" ReplaceCode="8" isCompound="false" ></code>
+    <code SourceCode="\u58090" ReplaceCode="9" isCompound="false" ></code>
+ 
+    <code SourceCode="\u58182" ReplaceCode="(" isCompound="false" ></code>
+    <code SourceCode="\u58184" ReplaceCode=")" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="،" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="_" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="-" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="\u0062" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="\u0060" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode=":" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="«" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="+" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="»" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="؟" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="؛" isCompound="false" ></code>
+    <code SourceCode="" ReplaceCode="!" isCompound="false" ></code>
+<code SourceCode="〓" ReplaceCode="" isCompound="true" ></code>
+<code SourceCode="\u58176" ReplaceCode="." isCompound="false" ></code>
+ <code SourceCode="　" ReplaceCode=" " isCompound="true" ></code>
+<code SourceCode="" ReplaceCode="" isCompound="true" ></code>
+<code SourceCode="" ReplaceCode=" " isCompound="true" ></code>
+<code SourceCode="" ReplaceCode=" " isCompound="true" ></code>
+  </Codes>
+  <Regex>
+	<Replace Regex="〖[^〗]*〗" Replacement="" ReplaceTime="Befor"></Replace>
+	<Replace Regex="\[[^\]]*\]" Replacement="" ReplaceTime="Befor"></Replace>
+	<Replace Regex="\r\r\n" Replacement="" ReplaceTime="Befor"></Replace>
+	<Replace Regex="\b\d+\b" Replacement="|MEReverse" ReplaceTime="After"></Replace>
+  </Regex>
+</CodeConvert>
